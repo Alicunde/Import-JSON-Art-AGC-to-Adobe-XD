@@ -1,0 +1,15 @@
+{
+  "name": "Alicunde Systems",
+  "version": "1.0.0",
+  "description": "This little script replaces the graphicContent.agc file on top of an Adobe XD project without generating the nasty Error code: 86.",
+  "main": "index.js",
+  "scripts": {
+    "start": "./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salbatore Munuera",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.5.0"
+  }
+}
