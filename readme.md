@@ -19,5 +19,5 @@ https://public-v2links.adobecc.com
 ```
 ### Screens
 ![cli](screenshots/cli.png)
-![new](screenshots/new.png)
+![new](screenshots/first.png)
 ![modified](screenshots/modified.png)
